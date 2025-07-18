@@ -10,7 +10,7 @@ h1 {
 }
 
 form{
-    width: 500px;
+    width: 450px;
     margin-left: 445px; 
     padding: 40px;  
     margin-top: 35px;
@@ -21,7 +21,7 @@ form{
 }
 
 input[type="text"] {
-  width: 500px;
+  width: 450px;
   padding: 5px;
   border: 1px solid #000000;
   border-radius: 6px;
@@ -30,7 +30,7 @@ input[type="text"] {
 }
 
 input[type="date"] {
-  width: 500px;
+  width: 450px;
   padding: 5px;
   border: 1px solid #000000;
   border-radius: 6px;
@@ -39,7 +39,7 @@ input[type="date"] {
 }
 
 input[type="tel"] {
-  width: 500px;
+  width: 450px;
   padding: 5px;
   border: 1px solid #000000;
   border-radius: 6px;
@@ -48,7 +48,7 @@ input[type="tel"] {
 }
 
 input[type="email"] {
-  width: 500px;
+  width: 450px;
   padding: 5px;
   border: 1px solid #000000;
   border-radius: 6px;
@@ -67,7 +67,7 @@ img {
 }
 
 button {
-    width: 515px;
+    width: 460px;
     background-color: rgb(31, 21, 1);
     padding: 9px;
     color: 
