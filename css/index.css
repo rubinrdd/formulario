@@ -1,12 +1,11 @@
-body{
+body{ 
     background-color: rgba(152, 126, 63, 0.898);
 }
 
-h2{
+h2 {
     margin-top: 20px;
     text-align: center;
-    color: rgb(31, 21, 1);     
-    font-family: 'Georgia', serif;
+    color: rgb(31, 21, 1);   
 
 }
 
@@ -23,18 +22,38 @@ form{
 
 input[type="text"] {
   width: 500px;
+  padding: 5px;
+  border: 1px solid #000000;
+  border-radius: 6px;
+  font-size: 16px;
+  transition: border-color 0.3s;
 }
 
 input[type="date"] {
   width: 500px;
+  padding: 5px;
+  border: 1px solid #000000;
+  border-radius: 6px;
+  font-size: 16px;
+  transition: border-color 0.3s;
 }
 
 input[type="tel"] {
   width: 500px;
+  padding: 5px;
+  border: 1px solid #000000;
+  border-radius: 6px;
+  font-size: 16px;
+  transition: border-color 0.3s
 }
 
 input[type="email"] {
   width: 500px;
+  padding: 5px;
+  border: 1px solid #000000;
+  border-radius: 6px;
+  font-size: 16px;
+  transition: border-color 0.3s;
 }
 
 img {
@@ -45,4 +64,16 @@ img {
     margin-left: 50px;         
     border-radius: 20px;     
     box-shadow: 2px 2px 10px rgb(128, 96, 36); 
+}
+
+button {
+    width: 500px;
+    padding: 5px;
+    background-color: rgb(31, 21, 1);
+    color: white;
+    border: none;
+    border-radius: 9px;
+    font-size: 15px;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.2s;
 }
